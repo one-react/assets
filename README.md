@@ -1,6 +1,6 @@
 # One React: Assets
 
-<p align="center"><img width="150" src="https://cdn.rawgit.com/one-react/assets/0138f4cd/logo%402x.png" alt="logo"></p>
+<p align="center"><img width="150" src="https://cdn.jsdelivr.net/gh/one-react/assets@0138f4cd/logo%402x.png" alt="logo"></p>
 
 ## Notes
 * Don't move/delete logo@2x.png because every project using its path to render logo image.
